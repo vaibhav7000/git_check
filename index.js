@@ -111,4 +111,6 @@ alex.friends.greet();
  * dev-vaibav-2
  * 
  * main feature
+ * 
+ * Never use rebase command on the main branch
  */
